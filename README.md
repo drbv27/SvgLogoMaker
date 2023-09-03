@@ -70,7 +70,7 @@ npm test
 
 
 ## Mock Up
-![Logo Generator](./IMAGES/10-oop-homework-demo.png)
+![Logo Generator](./images/10-oop-homework-demo.png)
 ## URL
  1. A walkthrough video demonstration. 
  [LOGO MAKER VIDEO]
