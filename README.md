@@ -10,7 +10,7 @@ The application allows users to create a 'logo.svg' file by inputting three char
   * [License](#license)
   * [Contributors](#contributors)
   * [Test](#test)
-  * [Questions](#questions)
+  * [Contact](#contact)
 
 ## Task 
 Your task is to build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
@@ -38,7 +38,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered.
 
 ## Installation
 
-1. You need Install NODE.js to run this application ![Node JS](https://nodejs.org/)
+1. You need Install NODE.js to run this application (https://nodejs.org/)
 2. Generate a .gitignore file and add entries for both 'node_modules/' and '.DS_Store/' to prevent tracking and uploading of your 'node_modules' directory on GitHub. Ensure you create the .gitignore file before installing any npm dependencies.
 3. Confirm that your repository contains a 'package.json' file with the necessary dependencies. You can create one by executing 'npm init' during the initial project setup, prior to installing any dependencies.
 4. Utilize the integrated terminal to execute the command 'npm i inquirer@8.2.4' to install the 'inquirer.js' package as a dependency.
@@ -63,7 +63,7 @@ drbv27
 npm test
 
 
-## Questions
+## Contact
   * GitHub Username : drbv27
   * Email: drbv27@gmail.com
   * GitHub profile : https://github.com/drbv27
@@ -76,7 +76,7 @@ npm test
  [LOGO MAKER VIDEO]
  (PUT THE LINK HERE!!!!!!!!)
 
- 2.The URL of the GitHub repository. //CHANGE FOR YOUR OWN REPOSITORY
+ 2. The URL of the GitHub repository. //CHANGE FOR YOUR OWN REPOSITORY
  https://github.com/drbv27/SvgLogoMaker
 
  ## ScreenShot
